@@ -2,7 +2,7 @@
 
 Bachelor/PFE Project: Hamiltonian-Partials Reformulation + Pathwise Discrete Dual Gradients.
 **Student:** Youssef Kallala
-**Supervisors:** R. Tempone & Erik von Schwerin
+**Supervisors:** Prof. R. Tempone & Dr. Erik von Schwerin
 
 ## Environment Setup
 This project uses Python. To install the dependencies:
